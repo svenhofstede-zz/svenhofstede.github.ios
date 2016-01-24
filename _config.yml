@@ -16,10 +16,10 @@ permalink:          /notes/:title # Post permalink
 timezone:           Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
-highlighter:        pygments
+highlighter:        rouge
 #markdown:           redcarpet
 #redcarpet:
-#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
+    #extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
 markdown:           kramdown
 kramdown:
     input:          GFM
@@ -29,12 +29,12 @@ sass:
 # Other Params
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
-gems:
-  - jekyll-sitemap
+#gems:
+  #- jekyll-sitemap
 
 compress_html:
     clippings:      all
-    ingore:
+    ignore:
         envs:       [ "test" ]
 
 defaults:
