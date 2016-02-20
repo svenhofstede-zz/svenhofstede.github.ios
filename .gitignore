@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# Ignore _site
+_site/*
+
 # Folder config file
 Desktop.ini
 
