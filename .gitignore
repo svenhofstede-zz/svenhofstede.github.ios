@@ -3,7 +3,9 @@ Thumbs.db
 ehthumbs.db
 
 # Ignore _site
-_site/*
+_site/
+.sass-cache/
+.jekyll-metadata
 
 # Folder config file
 Desktop.ini
