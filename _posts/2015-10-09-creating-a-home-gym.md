@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Creating a home gym
+comments: true
 ---
 
 
