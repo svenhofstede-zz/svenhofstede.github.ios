@@ -75,10 +75,10 @@ Sometimes, instead of writing code to test 'how something will turn out' takes l
 
 Learn 
 
-* linaer regression
-* t test 
-* binominal distributions
-* confidence intervals
+* Linaer Regression
+* T Test 
+* Binominal distributions
+* Confidence intervals
 
 ### Josh Wills
 
