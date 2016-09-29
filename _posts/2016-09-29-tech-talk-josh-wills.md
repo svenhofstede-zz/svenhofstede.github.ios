@@ -41,10 +41,8 @@ If infrastructure isn't sufficient, a scientist will find a way to get it to run
 
 Relational databases are bad at:
 
-* COUNT DISTINCT 
-** Star models are not optimized for this 
-* Cursors 
-** If you are using cursors, there is something wrong
+* COUNT DISTINCT - Star models are not optimized for this 
+* Cursors - If you are using cursors, there is something wrong
 * ALTER TABLE_OF_DOOM
 
 Databases are optimized to analyse transactions. Financial reporting, enterprise resource planning, ... Asking questions where you can't put all the things you need to know in a single row is typically unperformant in a database.
@@ -53,13 +51,9 @@ Hadoop is simply a file system. You can structure your data as you like. Pull al
 
 ### Where should you work
 
-**Start up**
+Start up - Wearing two hats, jack of all trades.
 
-Wearing two hats, jack of all trades.
-
-**Close to the money**
-
-You can convince people how much money you save or make the company. 
+Close to the money - You can convince people how much money you save or make the company. 
 
 ### Education and growth
 
