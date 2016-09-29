@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Airbnb Tech Talk: Josh Wills - The Life of a Data Scientist
+title: Airbnb Tech Talk&#58 Josh Wills - The Life of a Data Scientist
 comments: true
 ---
 
