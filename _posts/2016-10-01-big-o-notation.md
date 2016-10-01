@@ -52,6 +52,7 @@ In mathematics, the factorial of a non-negative integer n, denoted by n!, is the
 
 This gets out of hand extremely quickly. 
 
+
 [![Big-o Notation](http://bigocheatsheet.com/img/big-o-cheat-sheet-poster.png)](http://bigocheatsheet.com/img/big-o-cheat-sheet-poster.png "Big-o Notation")
 
 [Lots of extra information and screenshots](http://bigocheatsheet.com/?goback=.gde_98713_member_241501229)
