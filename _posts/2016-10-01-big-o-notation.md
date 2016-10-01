@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: Big-O summary
 published: true
+title: Big O summary
 ---
 
 Big-O notation illustrates how a function responds to various inputs. Simply put: How fast will my function run if I change the input from 10 elements to 1000000 elements. Big-O is all about the approximate worst-case performance of doing something. The upper bound is the mathematic limit of the worst output. 
