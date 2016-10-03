@@ -19,9 +19,11 @@ Being at best competent as a statician and  scientist. You know enough to talk t
 
 ### Math vs. Computer Science
 
-* Need to be good at both. Best to atleast study one of these and otherwise study science. Just studying Science (biology, neuroscience, ..) will give you the tools like relentlessness. 
-* Big Oh notation is important as it gives you the implications of runtimes of programs
-* Know your data structures
+Need to be good at both. Best to atleast study one of these and otherwise study science. Just studying Science (biology, neuroscience, ..) will give you the tools like relentlessness. 
+
+Big Oh notation is important as it gives you the implications of runtimes of programs
+
+Know your data structures
 
 Computer science has algorithms and data structures, Data science has random variables and probably modeling
 
