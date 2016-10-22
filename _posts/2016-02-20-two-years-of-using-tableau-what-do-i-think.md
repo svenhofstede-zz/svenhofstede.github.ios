@@ -3,6 +3,8 @@ layout: post
 title: "What I think of Tableau"
 published: true
 comments: true
+tags:
+- Tools
 ---
 
 I've been working with Tableau professionally for the past two years. I create ready-to-use dashboard for end-users who typically consume them via the Tableau Server portal. I feel however that this is not the best use for Tableau and I'll go into details why further on. Let's start with some of the highlights.
