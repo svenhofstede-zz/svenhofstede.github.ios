@@ -3,6 +3,8 @@ layout: post
 published: true
 title: Josh Wills - The Life of a Data Scientist
 comments: true
+tags:
+- Tech Talk summary
 ---
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/h9vQIPfe2uU/0.jpg)](https://www.youtube.com/watch?v=h9vQIPfe2uU "Airbnb Tech Talk: Josh Wills - The Life of a Data Scientist")

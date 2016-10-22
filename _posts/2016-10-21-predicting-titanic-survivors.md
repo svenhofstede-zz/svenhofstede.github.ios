@@ -1,5 +1,7 @@
 ---
 published: true
+tags:
+- Machine Learning
 ---
 
 ## Predicting Titanic Survivors.. again
