@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<section>
+	{% capture tags %}{% for tag in site.tags %}{{ tag[0] }}|{% endfor %}{% endcapture %}
+	{% assign sortedtags = tags | split:'|' | sort %}
+
+	{% for tag in sortedtags %}
+	    <h3 class="border-bottom border-light-gray mb3 pb1">{{ tag }}</h3>
+		<ul>
+	    {% for post in site.tags[tag] %}
+		<li>
+			<div class="post-date">
+				<span>{{ post.date | date: "%b %d, %Y" }}</span>
+			</div>
+			<div class="title">
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</div>
+		</li>
+	    {% endfor %}
+		</ul>
+	{% endfor %}
+</section>
