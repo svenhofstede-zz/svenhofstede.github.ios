@@ -3,7 +3,7 @@ layout: post
 title: Why start blogging
 published: true
 tags:
-- personal
+- Personal
 ---
 
 ## The reason

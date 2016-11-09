@@ -8,9 +8,9 @@ permalink: /about/
 
 My name is Sven Hofstede and I'm currently working as a Business Intelligence Consultant in Belgium. I love exploring data and finding stories and insights within datasets. I believe decisions should be based on data and progress must be measurable. 
 
-<!-- TODO: add some additional information about previous project -->
+Want to contact me?
 
-I like playing soccer. Always looking for new experiences. I also don't mind reading a good book.
+<a href="mailto:svenhofstede@gmail.com">svenhofstede@gmail.com</a>
 
 ![sven_fjord.jpg]({{site.baseurl}}/images/sven_fjord.jpg)
 
