@@ -28,7 +28,7 @@ Writing a blog post forces you to really think something through. I spend most o
 
 #### Track your progress
 
-Over time I (hopefully) see my skill increase. A blog will be a nice journal that will stay here forever that nicely keeps track of this progress. Must feel good if you can at some point look back at older blog posts and see clear improvement in skills and writing.
+Over time I (hopefully) see my skill increase. A blog will be a nice journal that will stay here forever that nicely keeps track of this progress. It must feel good if you can at some point look back at older blog posts and see clear improvement in skills and writing.
 
 ## Get help getting started
 
