@@ -2,7 +2,7 @@
 title: What Clean Code taught me
 published: true
 tags:
-- Personal
+- Books
 ---
 
 I'm currently working on reading through Clean Code by Robert C. Martin. It was clear from the start that the book is full of incredible content and it's well worth the time to study it properly. I'm trying to capture the key take-aways I have come across. There is much more to the book then what I'm highlighting here but these are things that were somewhat new to me and stuck in my mind as being worth remembering. I would suggest any programmer to have a look at this book in full. 
@@ -83,7 +83,7 @@ except:
 
 #### Write test, write code, refactor
 
-It's hard to write clean functions on first pass and people rarely do. There is nothing wrong with writing ugly code that just works and then refactoring it to make it clean.
+It's hard to write clean functions on first pass and people rarely do. There is nothing wrong with writing ugly code that just works and then refactoring it to make it clean. Remember to write tests first so you can safely refactor your code.
 
 ## Comments
 
