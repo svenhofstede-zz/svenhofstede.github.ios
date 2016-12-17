@@ -5,6 +5,8 @@ tags:
 - Books
 ---
 
+*Written by Grant Cardone*
+
 I'll start out by saying that I'm not a fan of this book. I was warned before reading that it isn't for everyone and I'll have to agree with that statement now. If not for the ease of reading, I don't think I would of completed it. 
 
 The book revolves around the idea of being completely consumed by your goals in life. This means ignoring criticism/negative feedback from anyone, putting in extra hours all the time, being ruthless towards your competitions and squeezing out every last drop of profit from your employees and clients. 

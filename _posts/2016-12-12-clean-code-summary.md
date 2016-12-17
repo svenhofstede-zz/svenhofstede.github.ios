@@ -4,12 +4,11 @@ published: true
 tags:
 - Books
 ---
+*This blog post is work-in-progress while working myself through the book. It will loosely follow the structure of the book.*
 
 I'm currently working on reading through Clean Code by Robert C. Martin. It was clear from the start that the book is full of incredible content and it's well worth the time to study it properly. I'm trying to capture the key take-aways I have come across. There is much more to the book then what I'm highlighting here but these are things that were somewhat new to me and stuck in my mind as being worth remembering. I would suggest any programmer to have a look at this book in full. 
 
 I'm approaching this book from an un-experienced programming in terms of application development. Most of the concepts/patterns are new to me.
-
-This blog post is work-in-progress while working myself through the book. It will loosely follow the structure of the book. 
 
 ## The Art of Naming
 
