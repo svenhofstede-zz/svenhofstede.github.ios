@@ -115,6 +115,44 @@ When dealing with third party API and the boundaries between it and your applica
 * It's a great way to learn the API
 * Failing tests will alert you of changes in the API (after a new release for example)
 
+#### Adapter pattern
+
+The Person objects has a make_noise() but Dog doesn't. It only has bark(). We implement a DogAdapter which defines the make_noise() to call bark(). All other functions of Dog are routed to the Dog object itself using the __getattr__. This 'catch-all' sends all remaining function calls to the underlying Dog object.
+
+```python
+
+from dog import Dog
+class Person(object):
+    """A representation of a person in 2D Land"""
+    def __init__(self, name):
+        self.name = name
+
+    def make_noise(self):
+        return "hello"
+
+class DogAdapter(object):
+    """Adapts the Dog class through encapsulation"""
+    def __init__(self, canine):
+        self.canine = canine
+
+    def make_noise(self):
+        """This is the only method that's adapted"""
+        return self.canine.bark()
+
+    def __getattr__(self, attr):
+        """Everything else is delegated to the object"""
+        return getattr(self.canine, attr)
+
+def click_creature(creature):
+    """
+    React to a click by showing the creature's
+    name and what is says
+    """
+
+    return (creature.name, creature.make_noise())
+
+```
+
 ## Unit Tests
 
 Unit tests are as important as the production code itself. They not only make sure your program works as you intended it to but also allows for safe refactoring. Refactoring without tests is a gamble. 
