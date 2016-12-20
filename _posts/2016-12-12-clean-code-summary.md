@@ -92,25 +92,40 @@ Don't leave commented code hanging around. If you don't need it, get rid of it. 
 
 Add comments near the source of the thing you are commenting. Don't add a comment for a function where you are using the function. Instead comment where the function is defined.
 
-## Formatting 
-
-*To be continued*
-
 ## Objects and Data Structures
 
-*To be continued*
+#### The difference
+
+The difference between objects and data structures lies in their usage. Data structures are meant to provide access to the data directly. Objects hide direct access to data but expose behaviours. They abstract away the retrieval of data.
+
+You should not be able to navigate through objects by chaining as the underlying implementation should be hidden from sight. 
 
 ## Error Handling
 
-*To be continued*
+Don't forget to write tests for errors that you expect to have happen. Make sure these are tested as well.
+
+Add context to the error message. When catching the error you are normally aware of via this error is being thrown. Convey this knowledge in the error message so that, when the error occurs, you can easily recall it. 
+
+Wrap third party API exceptions with your own single error. This way you don't need to handle all the possible errors every time you use the API.
 
 ## Boundaries
 
-*To be continued*
+When dealing with third party API and the boundaries between it and your application, write tests for this boundary. Write tests to learn how the API works. These tests can be simply calling the API and not getting an error. This would be a successfull test. This has two advantages:
+
+* It's a great way to learn the API
+* Failing tests will alert you of changes in the API (after a new release for example)
 
 ## Unit Tests
 
-*To be continued*
+Unit tests are as important as the production code itself. They not only make sure your program works as you intended it to but also allows for safe refactoring. Refactoring without tests is a gamble. 
+
+The 5 FIRST principles of testing:
+
+* Run **F**ast
+* **I**ndependant from other tests
+* **R**epeatable
+* The outcome is **S**elf-validating. Outcome is binary.
+* Written **T**imely so before the production code
 
 ## Classes
 
