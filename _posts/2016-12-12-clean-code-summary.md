@@ -14,11 +14,11 @@ I'm approaching this book from an un-experienced programming in terms of applica
 
 *There are two hard things in computer science: cache invalidation, **naming things**.*
 
-The naming of variables and functions is an art in itself. You need to come up with a name that perfectly explains why and how a variable or function is used and what it is. It can't be too long but it shouldn't be too short. Longer is better then shorter is that means the intent is clear. 
+The naming of variables and functions is an art in itself. You need to come up with a name that perfectly explains why and how a variable or function is used and what it is. It can't be too long but it shouldn't be too short. Longer is better then shorter if that means the intent is made more clear. 
 
 #### Make it Searchable
 
-If possible, make sure the name is searchable. You need to be able to easily jump to a variables. Don't call them `x`, `counter` or `max_number`. If you are using `counter` once, you'll probably use it often so searching the right one is inconvenient. And you don't want the search to bring you to every `x` in the text. 
+If possible, make sure the name is searchable. You need to be able to easily jump to a variables. Don't call them `x`, `counter` or `max_number`. If you are using `counter` once, you'll probably use it often so finding the right one with your editor find tool is inconvenient. And you don't want the search to bring you to every `x` in the text. 
 
 #### Talking about variables
 
@@ -104,7 +104,7 @@ You should not be able to navigate through objects by chaining as the underlying
 
 Don't forget to write tests for errors that you expect to have happen. Make sure these are tested as well.
 
-Add context to the error message. When catching the error you are normally aware of via this error is being thrown. Convey this knowledge in the error message so that, when the error occurs, you can easily recall it. 
+Add context to the error message. When catching the error you are normally aware of why this error is being thrown. Convey this knowledge in the error message so that, when the error occurs, you can easily recall it. 
 
 Wrap third party API exceptions with your own single error. This way you don't need to handle all the possible errors every time you use the API.
 
