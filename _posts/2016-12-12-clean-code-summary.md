@@ -164,25 +164,3 @@ The 5 FIRST principles of testing:
 * **R**epeatable
 * The outcome is **S**elf-validating. Outcome is binary.
 * Written **T**imely so before the production code
-
-## Classes
-
-*To be continued*
-
-## Systems
-
-*To be continued*
-
-## Emergence
-
-*To be continued*
-
-## Concurrency
-
-*To be continued*
-
-## Successive Refinement
-
-*To be continued*
-
-
