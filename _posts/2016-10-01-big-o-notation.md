@@ -1,8 +1,8 @@
-﻿---
+---
 title: Big O Notation
 published: true
 tags:
-- Machine Learning
+  - Machine Learning
 ---
 
 Big-O notation illustrates how a function responds to various inputs. Simply put: How fast will my function run if I change the input from 10 elements to 1000000 elements. Big-O is all about the approximate worst-case performance of doing something. The upper bound is the mathematic limit of the worst output. 
@@ -50,7 +50,7 @@ In mathematics, the factorial of a non-negative integer n, denoted by n!, is the
 This gets out of hand extremely quickly. 
 
 
-[[Big-o Notation](http://bigocheatsheet.com/img/big-o-cheat-sheet-poster.png)](http://bigocheatsheet.com/img/big-o-cheat-sheet-poster.png "Big-o Notation")
+[Big-o Notation cheatsheet](http://bigocheatsheet.com/img/big-o-cheat-sheet-poster.png)
 
 [Lots of extra information and screenshots](http://bigocheatsheet.com/?goback=.gde_98713_member_241501229)
 
