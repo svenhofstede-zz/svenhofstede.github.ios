@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags:
   - Personal
 title: My News Diet
