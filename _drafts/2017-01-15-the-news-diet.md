@@ -2,7 +2,7 @@
 published: false
 tags:
   - Personal
-title: Information diet
+title: My News Diet
 ---
 I actively try to avoid any type of news/media. I have de-activated my Facebook account. I don't read newspapers or magazines. 
 
