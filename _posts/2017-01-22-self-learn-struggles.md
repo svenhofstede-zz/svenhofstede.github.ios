@@ -4,7 +4,7 @@ tags:
   - Programming
 title: What I’m struggling with as a self-learner
 ---
-Pretty soon I will be starting a new job. I will be working as a Java developer. I have some professional experience writing Scala code (Spark) but this was always in a different context. Moving data around is very different to application development. I'm therefore spending a couple hours each week brushing up on my programming skills and I thought it would be interesting to document the struggles I'm currently facing.
+Pretty soon I will be starting a new job where I will be working as a Java developer. I have some professional experience writing Scala code (Spark) but this was in a different context. Moving data around is very different to application development. I'm therefore spending a couple hours each week brushing up on my programming skills and I thought it would be interesting to document the struggles I'm currently facing.
 
 ### Recognizing when to use a design pattern
 
@@ -16,4 +16,6 @@ After learning the basics using online courses it's best to find a cool projects
 
 I have 'resorted' to create a simple game using the PyGame library. It's more of simulation game simulating a taxi company. This combines many aspects of programming that I would like to learn. Mostly TDD and object-oriented programming
 
-### 
+### Doing the work
+
+As with all learning activity that requires deliberate effort, it's hard to get started! 
