@@ -2,7 +2,7 @@
 title: Things I should learn as a new programmer
 published: true
 tags:
-  - Personal
+  - Programming
 ---
 
 ### Algorithms & Data Structures
@@ -34,4 +34,3 @@ Beginner's code is not pretty. I'm hoping to write some proper clean code as soo
 I want to be proficient at both Java & Python. That way I have nice balance between dynamic and statically typed. These language also see two difference usages in the workplace and they both still have a bright future ahead of them. 
 
 In developing for the web I'll also pick up some Javascript.
-
