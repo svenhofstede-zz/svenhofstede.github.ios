@@ -18,4 +18,4 @@ I have 'resorted' to create a simple game using the PyGame library. It's more of
 
 ### Doing the work
 
-As with all learning activity that requires deliberate effort, it's hard to get started! 
+As with all learning activities that requires deliberate effort, it's hard to get started! After coming home from work it's tough to get yourself started. 
