@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags:
   - Programming
 title: What I’m struggling with as a self-learner
